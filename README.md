@@ -2,7 +2,7 @@
 Predict Stock Prices Using Machine Learning and Python using Linear Regression Model and Decision Tree Regressor
 
 
-# Netflic
+# Netflix
 Netflix, Inc. is an American subscription streaming service and production company. Launched on August 29, 1997, it offers a library of films and television series through distribution deals as well as its own productions, known as Netflix Originals.
 
 # Linear Regression Model
